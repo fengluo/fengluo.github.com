@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Just Fengluo</title>
+    <link href="/fengluo.github.com/life/feed" rel="self" />
+    <link href="/fengluo.github.com/life/" />
+    <updated>2012-07-09T07:37:10Z</updated>
+    <id>/fengluo.github.com/life/</id>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <author><name>nickname</name><uri>http://example.com</uri></author>
+        <link href="fengluo.github.com/2012/hello-world"/>
+        <updated>2012-12-12T00:00:00+00:00</updated>
+        <published>2012-12-12T00:00:00+00:00</published>
+        <id>fengluo.github.com/2012/hello-world</id>
+        <category scheme="/fengluo.github.com/tag/python" term="python" label="Python" />
+        <category scheme="/fengluo.github.com/tag/code" term="code" label="Code" />
+        <content type="html" xml:base="fengluo.github.com" xml:lang="en">
+            <![CDATA[ <p>Hello World. This is a DEMO post.</p>
+ ]]>
+        </content>
+    </entry>
+</feed>
